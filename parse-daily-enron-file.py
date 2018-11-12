@@ -22,6 +22,8 @@ import json
 
 csvFile = sys.argv[1]
 
+# File definitions:
+banana = "test"
 csvFile = open('file.csv', 'r')
 jsonFile = open('file.json', 'w')
 
